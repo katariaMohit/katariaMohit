@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katariaMohit PhD scholar at IIT-Delhi
+- 👋 Hi, I’m Mohit Kataria, PhD scholar at IIT-Delhi, India
 - 👀 I’m interested in AI/ML(Graph Learning, Distributed Programming in AI, RL)
 - 📫 How to reach me mohit.kataria8860@gmail.com
 
